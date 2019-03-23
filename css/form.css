@@ -1,0 +1,46 @@
+body{
+  background-color: #8AD2C3;
+}
+.main{
+  display:flex;
+  margin:1%;
+  padding:2%;
+  width:95%;
+}
+.main section{
+  width:35%;
+  border:2px solid black;
+  margin:1%;
+  padding:2%;
+}
+section{
+  background: #A47FD6;
+  margin:1%;
+  padding:2%;
+  border:2px solid black;
+  width:35%;
+  /* text align:center; */
+}
+input,select{
+  width:35%;
+  margin:1%;
+  padding:2%;
+  display:flex;
+  border:1px solid #fff;
+}
+#career{
+  width:35%;
+  margin:1%;
+  padding:2%;
+  border:2px solid black;
+  display:block;
+}
+button{
+  background: #39E780
+  width:95%;
+  color:#add;
+  margin:1%;
+  padding:1%;
+  font-size: 30px;
+  font-weight: bold;
+}
